@@ -1,0 +1,10 @@
+https://tiki.vn/api/v2/products?limit=48&include=advertisement&aggregations=1&trackity_id=e3570a34-cd3f-fb09-89cf-3589a304c9ee&category=10389&page=1&src=c.10389.hamburger_menu_fly_out_banner&urlKey=ao-crop-top
+https://tiki.vn/api/v2/products?limit=48&include=advertisement&aggregations=1&trackity_id=e3570a34-cd3f-fb09-89cf-3589a304c9ee&category=27582&page=1&src=c.27582.hamburger_menu_fly_out_banner&urlKey=dam-dang-xoe
+https://tiki.vn/api/v2/products?limit=48&include=advertisement&aggregations=1&trackity_id=e3570a34-cd3f-fb09-89cf-3589a304c9ee&category=27594&page=1&src=c.27594.hamburger_menu_fly_out_banner&urlKey=ao-cardigan-nu
+https://tiki.vn/api/v2/products?limit=48&include=advertisement&aggregations=1&trackity_id=e3570a34-cd3f-fb09-89cf-3589a304c9ee&category=49346&page=1&src=c.49346.hamburger_menu_fly_out_banner&urlKey=quan-ong-rong-nu
+https://tiki.vn/api/v2/products?limit=48&include=advertisement&aggregations=1&trackity_id=e3570a34-cd3f-fb09-89cf-3589a304c9ee&category=1509&page=1&src=c.1509.hamburger_menu_fly_out_banner&urlKey=ao-nguc
+https://tiki.vn/api/v2/products?limit=48&include=advertisement&aggregations=1&trackity_id=e3570a34-cd3f-fb09-89cf-3589a304c9ee&category=1685&page=1&src=c.1685.hamburger_menu_fly_out_banner&urlKey=ao-thun-nam-ngan-tay-khong-co
+https://tiki.vn/api/v2/products?limit=48&include=advertisement&aggregations=1&trackity_id=e3570a34-cd3f-fb09-89cf-3589a304c9ee&category=10380&page=1&src=c.10380.hamburger_menu_fly_out_banner&urlKey=ao-so-mi-nam-tay-ngan
+https://tiki.vn/api/v2/products?limit=48&include=advertisement&aggregations=1&trackity_id=e3570a34-cd3f-fb09-89cf-3589a304c9ee&category=922&page=1&src=c.922.hamburger_menu_fly_out_banner&urlKey=quan-tay-nam
+https://tiki.vn/api/v2/products?limit=48&include=advertisement&aggregations=1&trackity_id=e3570a34-cd3f-fb09-89cf-3589a304c9ee&category=10382&page=1&src=c.10382.hamburger_menu_fly_out_banner&urlKey=ao-hoodie-nam
+https://tiki.vn/api/v2/products?limit=48&include=advertisement&aggregations=1&trackity_id=e3570a34-cd3f-fb09-89cf-3589a304c9ee&category=27570&page=1&src=c.27570.hamburger_menu_fly_out_banner&urlKey=do-ngu-do-mac-nha-nam
